@@ -26,7 +26,7 @@ for i in 0..<testcase {
     print(apt[floors[i]][rooms[i]-1])
 }
 
-//MARK: - 영록님 코드를 swift로 바꿔봄
+//MARK: - 영록님 코드
 
 //var apt = Array(repeating: Array(repeating: 0, count: 15), count: 15)
 //
