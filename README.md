@@ -67,3 +67,10 @@
 - 분수 찾기
 - 덱
 
+### 25년 02월 04일
+- 점프왕 쩰리(Large)
+- 점미사 배열
+- 단어 정렬
+- X mark the Spot
+- 개표
+- Tren del Fin del Mundo
