@@ -74,3 +74,10 @@
 - X mark the Spot
 - 개표
 - Tren del Fin del Mundo
+
+### 25년 02월 05일
+- 사과담기 게임
+- 덩치
+- 과제 진행하기
+
+
